@@ -19,8 +19,6 @@
 --
 
 
-![Dinossauro Pulando](https://raw.githubusercontent.com/seu_usuario/seu_repositorio/main/path_to_your_dino.gif)
-
 
 
 
