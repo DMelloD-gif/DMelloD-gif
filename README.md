@@ -21,14 +21,8 @@
 
 ![Dinossauro Pulando](https://raw.githubusercontent.com/seu_usuario/seu_repositorio/main/path_to_your_dino.gif)
 
-<h2>Habilidade em:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debysouza/debysouza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debysouza/debysouza/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/debysouza/debysouza/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 
