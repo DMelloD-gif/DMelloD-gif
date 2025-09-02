@@ -6,7 +6,7 @@
 
 ![DAVI DE MELLO GitHub stats](https://github-readme-stats.vercel.app/api?username=DMelloD-gif&show_icons=true&theme=highcontrast)
 
-##Habilidade em:##
+<h2>Habilidade em:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 
