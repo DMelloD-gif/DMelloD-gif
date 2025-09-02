@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.sdbento/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@lucarg0)
 
-![DAVI DE MELLO GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSBento&show_icons=true&theme=highcontrast)
+![DAVI DE MELLO GitHub stats](https://github-readme-stats.vercel.app/api?username=DMelloD-gif&show_icons=true&theme=highcontrast)
 
 ##Habilidade em:
 [![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
