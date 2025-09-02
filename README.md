@@ -6,7 +6,7 @@
 
 ![DAVI DE MELLO GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSBento&show_icons=true&theme=highcontrast)
 
-## Tecnologias do meu dia a dia
+##Habilidade em:
 [![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 
 <picture>
